@@ -1,5 +1,7 @@
 # data-visualization-projects
+
 A collection of data visualization projects across various domains, showcasing insights through Python-based exploratory analysis.
+
 📊 Data Visualization Projects
 This repository is a curated collection of data visualization and exploratory data analysis (EDA) projects across multiple domains. Each subfolder contains a self-contained project, including datasets, Jupyter notebooks, and visual outputs that uncover insights from real-world data.
 
@@ -15,9 +17,6 @@ A brief README.md explaining the project
 🧠 Topics Covered
 📈 US Debt Analysis (1966–2024)
 Exploring historical trends in United States federal debt and its economic implications.
-
-🩺 Diabetes Prevalence by Country
-A global health analysis comparing diabetes rates and associated factors.
 
 
 🔧 Tech Stack
